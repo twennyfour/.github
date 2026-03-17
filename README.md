@@ -19,13 +19,6 @@
 | --------- | ------- | ---------------- | -------------- |
 | 0         | libft   | Custom C library | 🟡 In progress |
 
-
----
-
-## Philosophy
-
-> Build, break, understand, repeat.
-
 ---
 
 ## Notes
