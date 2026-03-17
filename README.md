@@ -25,7 +25,3 @@
 
 * Each repository contains its own documentation and implementation details
 * Projects may include additional improvements beyond the original 42 requirements
-
----
-
-*This organization evolves with every project.*
