@@ -8,7 +8,7 @@
 
 | Milestone | Project | Description      | Status         |
 | --------- | ------- | ---------------- | -------------- |
-| 0         | [libft](https://codeberg.org/6times7/libft)   | Custom C library | 🟡 In progress |
+| 0         | [libft](https://codeberg.org/6times7/libft) · [subject]() | Custom C library | 🟡 In progress |
 
 ---
 
