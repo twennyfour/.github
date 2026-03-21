@@ -9,7 +9,7 @@
 | Milestone | Project | Description      | Status         |
 | --------- | ------- | ---------------- | -------------- |
 | 0         | [libft](https://codeberg.org/6times7/libft) · [subject]() | Custom C library | 🟡 In progress |
-| 1         | [printf](https://codeberg.org/6times7/printf) · [subject]() | Implementation of libc's `printf` | 🟡 In progress |
+| 1         | [ft_printf](https://codeberg.org/6times7/ft_printf) · [subject]() | Implementation of libc's `printf` | 🟡 In progress |
 
 ---
 
