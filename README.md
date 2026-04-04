@@ -4,7 +4,7 @@
 
 ---
 
-## 42 Cursus
+## Projects
 
 | Milestone | Project | Description      | Status         |
 | --------- | ------- | ---------------- | -------------- |
