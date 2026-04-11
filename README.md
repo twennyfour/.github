@@ -13,8 +13,3 @@
 | 1         | [getnextline](https://codeberg.org/6times7/getnextline) · [subject]() | Line-by-line file reading | 🚧 wip |
 
 ---
-
-## Notes
-
-* Each repository contains its own documentation and implementation details
-* Projects may include additional improvements beyond the original 42 requirements
