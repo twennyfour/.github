@@ -8,8 +8,8 @@
 
 | Milestone | Name | Description      | Status         |
 | :---------: | ------- | ---------------- | :--------------: |
-| 0         | [libft](https://codeberg.org/6times7/libft) · [subject]() | Custom C library | 🚧 wip |
-| 1         | [ft_printf](https://codeberg.org/6times7/ft_printf) · [subject]() | Implementation of libc's `printf` | 🚧 wip |
-| 1         | [getnextline](https://codeberg.org/6times7/getnextline) · [subject]() | Line-by-line file reading | 🚧 wip |
+| 0         | [libft](https://codeberg.org/6times7/libft) · subject v19.2 | Custom C library | 🚧 wip |
+| 1         | [ft_printf](https://codeberg.org/6times7/ft_printf) · subject v12.1 | Implementation of libc's `printf` | 🚧 wip |
+| 1         | [getnextline](https://codeberg.org/6times7/getnextline) · subject v14.2 | Line-by-line file reading | 🚧 wip |
 
 ---
