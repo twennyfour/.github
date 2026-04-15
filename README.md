@@ -6,10 +6,10 @@
 
 ## Projects
 
-| Milestone | Name · Subject version | Description      | Status         |
-| :---------: | ------- | ---------------- | :--------------: |
-| 0         | [libft](https://codeberg.org/6times7/libft) · v19.2 | Custom C library | 🚧 wip |
-| 1         | [ft_printf](https://codeberg.org/6times7/ft_printf) · v12.1 | Implementation of libc's `printf` | 🚧 wip |
-| 1         | [getnextline](https://codeberg.org/6times7/getnextline) · v14.2 | Line-by-line file reading | 🚧 wip |
+| Milestone | Name | Description | Subject version | Status |
+| :-------: | ---- | ----------- | :-------------: | :----: |
+| 0         | [libft](https://codeberg.org/6times7/libft) | Custom C library | v19.2 | 🚧 wip |
+| 1         | [ft_printf](https://codeberg.org/6times7/ft_printf) | Implementation of libc's `printf` | v12.1 | 🚧 wip |
+| 1         | [getnextline](https://codeberg.org/6times7/getnextline) | Line-by-line file reading | v14.2 |  🚧 wip |
 
 ---
