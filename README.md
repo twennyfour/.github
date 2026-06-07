@@ -1,5 +1,5 @@
 > A curated collection of projects I developed at [42 School Lisbon](https://www.42network.org/campus/42-lisboa/)
-
+---
 ## Projects
 
 | Milestone | Name | Description | Subject version | Grade |
@@ -13,3 +13,6 @@
 | 2         | [born2beroot](https://codeberg.org/6times7/born2beroot) | Introduction to the world of virtualization | 5.2 | 125 |
 
 ---
+
+> Each repository is virtually frozen post-evaluation and any modifications will be made in extra branches. \
+If I detect room for improvement, I'll open an issue (e.g. [here](https://codeberg.org/evil42/get_next_line/issues/1)). Anyone is welcome to open issues if issues are detected!
