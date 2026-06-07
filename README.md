@@ -13,5 +13,5 @@
 
 ---
 
-> Each repository is virtually frozen post-evaluation and any modifications will be made in extra branches. \
-If I detect room for improvement, I'll open an issue. Anyone is welcome to open issues if issues are detected!
+> Each project is virtually frozen post-evaluation and any modifications will be made in extra branches. \
+If I detect room for improvement, I'll open an issue. Anyone is welcome and free to open issues!
