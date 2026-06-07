@@ -15,4 +15,4 @@
 ---
 
 > Each repository is virtually frozen post-evaluation and any modifications will be made in extra branches. \
-If I detect room for improvement, I'll open an issue (e.g. [here](https://codeberg.org/evil42/get_next_line/issues/1)). Anyone is welcome to open issues if issues are detected!
+If I detect room for improvement, I'll open an issue. Anyone is welcome to open issues if issues are detected!
