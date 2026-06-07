@@ -14,4 +14,4 @@
 ---
 
 > Each project is virtually frozen post-evaluation and any modifications will be made in extra branches. \
-If I detect room for improvement, I'll open an issue. Anyone is welcome and free to open issues!
+If I detect room for improvement, I'll open an issue (e.g. [here](https://codeberg.org/twennyfour/get_next_line/issues/4)). Anyone is welcome and free to open issues!
