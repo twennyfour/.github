@@ -1,8 +1,4 @@
-# 6times7
-
 > A curated collection of projects I developed at [42 School Lisbon](https://www.42network.org/campus/42-lisboa/)
-
----
 
 ## Projects
 
