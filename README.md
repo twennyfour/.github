@@ -1,4 +1,4 @@
-> A collection of projects I developed at [42 School Lisbon](https://www.42network.org/campus/42-lisboa/)
+> My collection of projects developed at [42 School Lisbon](https://www.42network.org/campus/42-lisboa/)
 ---
 
 | Milestone | Name | Description | Subject version | Grade |
@@ -14,4 +14,4 @@
 ---
 
 > Each project is virtually frozen post-evaluation and any modifications will be made in extra branches. \
-If I detect room for improvement, I'll open an issue (e.g. [here](https://codeberg.org/twennyfour/get_next_line/issues/4)). Everyone is welcome to open issues!
+I will also open issues within each project if I detect room for improvement (e.g. [here](https://codeberg.org/twennyfour/get_next_line/issues/4)). Everyone is welcome to open issues :)
