@@ -17,5 +17,5 @@
 ---
 
 > Each project is virtually frozen post-evaluation and any modifications will be made in extra branches. \
-I will also open issues within each project if I detect room for improvement (e.g. [here](https://codeberg.org/twennyfour/get_next_line/issues/4)). \
-Everyone is welcome to open issues :)
+Improvements/bugs will be documented in each projects issues tab.
+Feel free to open issues if you see fit :)
