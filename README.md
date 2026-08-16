@@ -13,6 +13,9 @@
 | 3         | [codexion](https://codeberg.org/twennyfour/codexion) | Dining philosophers variant in C | 1.5 | 100 |
 | 3         | [fly-in](https://codeberg.org/twennyfour/fly-in) | Pathfinding algorithms | 1.6 | 125 |
 | 3         | [call_me_maybe](https://codeberg.org/twennyfour/call_me_maybe) | Introduction to function calling in LLMs | 1.5 | 121 |
+| 4         | [NetPractice](https://codeberg.org/twennyfour/NetPractice) | Basics of networking | 6.3 | wip |
+| 4         | [RAG against the machine](https://codeberg.org/twennyfour/RAG_against_the_machine) | Retrieval Augmented Generation | 1.6 | wip |
+| 4         | [pac-man](https://codeberg.org/twennyfour/pac-man) | Famous arcade game | 1.5 | wip |
 
 ---
 
