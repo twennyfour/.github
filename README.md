@@ -19,6 +19,6 @@
 
 ---
 
-> Each project is virtually frozen post-evaluation and any modifications will be made in extra branches. \
-Improvements/bugs will be documented in each projects issues tab.
-Feel free to open issues if you see fit :)
+> Each project is virtually frozen post-evaluation, and any modifications will be made in extra branches. \
+Improvements/bugs will be documented in each project's issues tab.
+Feel free to open issues as you see fit :)
