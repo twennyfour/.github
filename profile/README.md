@@ -16,7 +16,7 @@
 | 2         | [a_maze_ing](https://github.com/twennyfour/a_maze_ing) | Maze generator, solver and visualizer | 2.1 | 125 |
 | 2         | [born2beroot](https://github.com/twennyfour/born2beroot) | Introduction to the world of virtualization | 5.2 | 125 |
 | 3         | [codexion](https://github.com/twennyfour/codexion) | Dining philosophers variant in C | 1.5 | 100 |
-| 3         | [fly-in](https://github.com/twennyfour/fly-in) | Pathfinding algorithms | 1.6 | 125 |
+| 3         | [fly-in](https://github.com/twennyfour/fly-in) | Max-flow algorithms | 1.6 | 125 |
 | 3         | [call_me_maybe](https://github.com/twennyfour/call_me_maybe) | Introduction to function calling in LLMs | 1.5 | 121 |
 | 4         | [NetPractice](https://github.com/twennyfour/NetPractice) | Basics of networking | 6.3 | wip |
 | 4         | [RAG against the machine](https://github.com/twennyfour/RAG_against_the_machine) | Retrieval Augmented Generation | 2.0 | wip |
