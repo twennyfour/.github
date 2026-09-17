@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This is a mirror of my org at [codeberg.org/twennyfour](https://codeberg.org/twennyfour). Not everything might be synced -- if that's the case, don't hesitate to contact me.
+
+---
+
 > My collection of projects developed at [42 School Lisbon](https://www.42network.org/campus/42-lisboa/)
 ---
 
