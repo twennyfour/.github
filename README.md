@@ -7,7 +7,7 @@
 | 1         | [ft_printf](https://codeberg.org/twennyfour/ft_printf) | An implementation of a subset of libc's `printf` -- implements `%cspdiuxX` conversion specifiers, all flags, precision and field width; lacks length modifier | 12.1 | 125 |
 | 1         | [get_next_line](https://codeberg.org/twennyfour/get_next_line) | An implementation of a `getline`- and `fgets`-like function that reads a file line by line | 14.2 | 125 |
 | 1         | [push_swap](https://codeberg.org/twennyfour/push_swap) | A program that sorts integers on two stacks with a limited set of operations -- implements four strategies (`O(n²)`, `O(n√n)`, `O(n log n)` and a disorder-based adaptive one) and a `--bench` mode | 1.1 | 125 |
-| 2         | [python-modules](https://codeberg.org/twennyfour/python-modules) | A series of Python modules covering the language from the basics up | &mdash; | &mdash; |
+| 2         | [python_modules](https://codeberg.org/twennyfour/python_modules) | A series of Python modules covering the language from the basics up | &mdash; | &mdash; |
 | 2         | [a_maze_ing](https://codeberg.org/twennyfour/a_maze_ing) | A maze generator in Python -- supports perfect and imperfect mazes, shortest-path solving and an interactive terminal display | 2.1 | 125 |
 | 2         | [born2beroot](https://codeberg.org/twennyfour/born2beroot) | A hardened Debian server in a virtual machine -- covers encrypted LVM, SSH, UFW, sudo and password policies, a monitoring script and a WordPress site | 5.2 | 125 |
 | 3         | [codexion](https://codeberg.org/twennyfour/codexion) | A dining philosophers variant in C -- covers threads, mutexes, condition variables, FIFO and EDF scheduling, and priority queues | 1.5 | 100 |
