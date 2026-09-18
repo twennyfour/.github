@@ -8,10 +8,10 @@
 
 | Milestone | Name | Description | Subject version | Grade |
 | :-------: | ---- | ----------- | :-------------: | :----: |
-| 0         | [libft](https://github.com/twennyfour/libft) | Custom C library | v19.2 | 100 |
-| 1         | [ft_printf](https://github.com/twennyfour/ft_printf) | Implementation of libc's `printf` | v12.1 | 125 |
-| 1         | [get_next_line](https://github.com/twennyfour/get_next_line) | Line-by-line file reading | v14.2 | 125 |
-| 1         | [push_swap](https://github.com/twennyfour/push_swap) | Sort a stack of integers | v1.1 | 125 |
+| 0         | [libft](https://github.com/twennyfour/libft) | Custom C library | 19.2 | 100 |
+| 1         | [ft_printf](https://github.com/twennyfour/ft_printf) | Implementation of libc's `printf` | 12.1 | 125 |
+| 1         | [get_next_line](https://github.com/twennyfour/get_next_line) | Line-by-line file reading | 14.2 | 125 |
+| 1         | [push_swap](https://github.com/twennyfour/push_swap) | Sort a stack of integers | 1.1 | 125 |
 | 2         | [python-modules](https://github.com/twennyfour/python-modules) | Introduction to Python | &mdash; | &mdash; |
 | 2         | [a_maze_ing](https://github.com/twennyfour/a_maze_ing) | Maze generator, solver and visualizer | 2.1 | 125 |
 | 2         | [born2beroot](https://github.com/twennyfour/born2beroot) | Introduction to the world of virtualization | 5.2 | 125 |
